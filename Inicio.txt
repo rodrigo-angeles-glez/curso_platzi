@@ -1,9 +1,12 @@
 Iniciando en Git
+git config --list
+git config --global user.name ""
+git config --global user.mail ""
 
-git init
-git status
-git add ./
-git commit -m "mensaje"
+git init		//Iniciando git en el Directorio
+git status		//Verificar el estatus del Directorio
+git add ./		//Agregando los archivos ante de hacer commit git
+git commit -m "mensaje"	// commit
 
 
 git -config
