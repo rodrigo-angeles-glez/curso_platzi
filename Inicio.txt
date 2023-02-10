@@ -1,0 +1,10 @@
+Iniciando en Git
+
+git init
+git status
+git add ./
+git commit -m "mensaje"
+
+
+git -config
+
