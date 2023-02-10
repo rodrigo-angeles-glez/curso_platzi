@@ -8,6 +8,10 @@ git status		//Verificar el estatus del Directorio
 git add ./		//Agregando los archivos ante de hacer commit git
 git commit -m "mensaje"	// commit
 git  log --stat
+git remote add origin url
+git remote
+git remote -v
+
 
 git checkout
 git -config
