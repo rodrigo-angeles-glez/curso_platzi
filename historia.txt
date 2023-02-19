@@ -1,2 +1,3 @@
 Hola mi nombre es Rodrigo Angeles
 Andamos iniciando en Git!
+Tengo 30 años viviendo en el estado de oaxaca
