@@ -15,3 +15,7 @@
   font-family: Arial;
   font-size: 20px;
 }
+#container p {
+  font-size: 10px;
+  color: blueviolet;
+}
