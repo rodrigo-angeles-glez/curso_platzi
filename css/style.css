@@ -3,10 +3,15 @@
   margin: 0;
   padding: 0;
 }
-h1 {
+#container {
   color: darkblue;
+  text-align: center;
+  font-size: 15px;
+  width: 70%;
+  border: 1px solid #000;
 }
-p {
+#container h1 {
   color: blue;
   font-family: Arial;
+  font-size: 20px;
 }
