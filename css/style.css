@@ -15,7 +15,9 @@
   font-family: Arial;
   font-size: 20px;
 }
-#container p {
+#cabecera {
+  background-color: darkblue;
   font-size: 10px;
-  color: blueviolet;
+  color: white;
+  font-weight: bold;
 }
